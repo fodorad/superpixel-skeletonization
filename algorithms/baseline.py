@@ -9,6 +9,8 @@ Paper:
     Skeletonization Combined with Deep Neural Networks for Superpixel Temporal Propagation
     International Joint Conference on Neural Networks (IJCNN), 2019
 
+Contact:
+    Ádám Fodor -- foauaai@inf.elte.hu
 """
 # pylint: disable=E1101
 # pylint: disable=E0401

@@ -58,3 +58,30 @@ python run.py baseline2 ./results/baseline2_out --n_supix 512 --color_space lab
 # run single-skeleton method
 python run.py single-skeleton ./results/single-skeleton_out --n_supix 512 --color_space lab
 ```
+
+## Contact
+
+* Ádám Fodor -- foauaai@inf.elte.hu
+
+
+## Citation
+
+If you use this software in your research, please cite it as below.
+
+
+```
+Á. Fodor, Á. Fóthi, L. Kopácsi, E. Somfai and A. Lőrincz, "Skeletonization Combined with Deep Neural Networks for Superpixel Temporal Propagation," 2019 International Joint Conference on Neural Networks (IJCNN), 2019, pp. 1-7, doi: 10.1109/IJCNN.2019.8852391.
+```
+
+```
+@INPROCEEDINGS{8852391,
+  author={Fodor, Ádám and Fóthi, Áron and Kopácsi, László and Somfai, Ellák and Lőrincz, András},
+  booktitle={2019 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Skeletonization Combined with Deep Neural Networks for Superpixel Temporal Propagation}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1-7},
+  doi={10.1109/IJCNN.2019.8852391}}
+```
+
