@@ -1,8 +1,6 @@
 # project specific directories, binaries and other files
 db
-external
 results
-.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
