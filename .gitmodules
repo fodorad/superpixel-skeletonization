@@ -1,0 +1,3 @@
+[submodule "external/boruvka-superpixel"]
+	path = external/boruvka-superpixel
+	url = https://github.com/semiquark1/boruvka-superpixel
